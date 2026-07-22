@@ -68,18 +68,18 @@ The same open, infrastructure-as-code pipeline redeploys to new cities and domai
 
 ## References
 
-1. Luo, W. & Wang, F. (2003). Measures of spatial accessibility to health care in a GIS environment. *Environ. Plann. B*, 30(6), 865–884. doi:10.1068/b29120
-2. Radke, J. & Mu, L. (2000). Spatial decompositions, modeling and mapping service regions to predict access to social programs. *Geographic Information Sciences*, 6(2), 105–112.
-3. Guagliardo, M. F. (2004). Spatial accessibility of primary care: concepts, methods and challenges. *Int. J. Health Geographics*, 3, 3. doi:10.1186/1476-072X-3-3
-4. Luo, W. & Qi, Y. (2009). An enhanced two-step floating catchment area (E2SFCA) method. *Health & Place*, 15(4), 1100–1107. doi:10.1016/j.healthplace.2009.06.002
-5. Wan, N., Zou, B. & Sternberg, T. (2012). A three-step floating catchment area method. *IJGIS*, 26(6), 1073–1089. doi:10.1080/13658816.2011.624987
-6. Delamater, P. L. (2013). A modified two-step floating catchment area (M2SFCA) metric. *Health & Place*, 24, 30–43. doi:10.1016/j.healthplace.2013.07.012
-7. Fransen, K., Neutens, T., De Maeyer, P. & Deruyter, G. (2015). A commuter-based two-step floating catchment area method. *Health & Place*, 32, 65–73. doi:10.1016/j.healthplace.2015.01.002
-8. Tatem, A. J. (2017). WorldPop, open data for spatial demography. *Scientific Data*, 4, 170004. doi:10.1038/sdata.2017.4
-9. Maina, J., Ouma, P. O., Macharia, P. M., et al. (2019). A spatial database of health facilities managed by the public health sector in sub-Saharan Africa. *Scientific Data*, 6, 134. doi:10.1038/s41597-019-0142-2
-10. Luxen, D. & Vetter, C. (2011). Real-time routing with OpenStreetMap data. *Proc. 19th ACM SIGSPATIAL GIS*, 513–516. doi:10.1145/2093973.2094062
-11. Dijkstra, E. W. (1959). A note on two problems in connexion with graphs. *Numerische Mathematik*, 1, 269–271. doi:10.1007/BF01386390
-12. Goodfellow, I., et al. (2014). Generative adversarial nets. *NeurIPS*, 27. arXiv:1406.2661
+1. Luo, W., & Wang, F. (2003). Measures of spatial accessibility to health care in a GIS environment: Synthesis and a case study in the Chicago region. *Environment and Planning B: Planning and Design, 30*(6), 865–884. https://doi.org/10.1068/b29120
+2. Radke, J., & Mu, L. (2000). Spatial decompositions, modeling and mapping service regions to predict access to social programs. *Geographic Information Sciences, 6*(2), 105–112.
+3. Guagliardo, M. F. (2004). Spatial accessibility of primary care: Concepts, methods and challenges. *International Journal of Health Geographics, 3*, 3. https://doi.org/10.1186/1476-072X-3-3
+4. Luo, W., & Qi, Y. (2009). An enhanced two-step floating catchment area (E2SFCA) method for measuring spatial accessibility to primary care physicians. *Health & Place, 15*(4), 1100–1107. https://doi.org/10.1016/j.healthplace.2009.06.002
+5. Wan, N., Zou, B., & Sternberg, T. (2012). A three-step floating catchment area method for analyzing spatial access to health services. *International Journal of Geographical Information Science, 26*(6), 1073–1089. https://doi.org/10.1080/13658816.2011.624987
+6. Delamater, P. L. (2013). Spatial accessibility in suboptimally configured health care systems: A modified two-step floating catchment area (M2SFCA) metric. *Health & Place, 24*, 30–43. https://doi.org/10.1016/j.healthplace.2013.07.012
+7. Fransen, K., Neutens, T., De Maeyer, P., & Deruyter, G. (2015). A commuter-based two-step floating catchment area method for measuring spatial accessibility of daycare centers. *Health & Place, 32*, 65–73. https://doi.org/10.1016/j.healthplace.2015.01.002
+8. Tatem, A. J. (2017). WorldPop, open data for spatial demography. *Scientific Data, 4*, 170004. https://doi.org/10.1038/sdata.2017.4
+9. Maina, J., Ouma, P. O., Macharia, P. M., Alegana, V. A., Mitto, B., Fall, I. S., Noor, A. M., Snow, R. W., & Okiro, E. A. (2019). A spatial database of health facilities managed by the public health sector in sub-Saharan Africa. *Scientific Data, 6*, 134. https://doi.org/10.1038/s41597-019-0142-2
+10. Luxen, D., & Vetter, C. (2011). Real-time routing with OpenStreetMap data. In *Proceedings of the 19th ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems* (pp. 513–516). Association for Computing Machinery. https://doi.org/10.1145/2093973.2094062
+11. Dijkstra, E. W. (1959). A note on two problems in connexion with graphs. *Numerische Mathematik, 1*, 269–271. https://doi.org/10.1007/BF01386390
+12. Goodfellow, I., Pouget-Abadie, J., Mirza, M., Xu, B., Warde-Farley, D., Ozair, S., Courville, A., & Bengio, Y. (2014). Generative adversarial nets. *Advances in Neural Information Processing Systems, 27*, 2672–2680. https://arxiv.org/abs/1406.2661
 
 ---
 
