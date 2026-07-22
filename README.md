@@ -89,8 +89,7 @@ The same open, infrastructure-as-code pipeline redeploys to new cities and domai
 index.html   Self-contained project page (images embedded as data URIs)
 assets/      Figures and logo (raw exports)
   logo-data-innovation-for-africa.png
-  00-hero-results-collage.jpg              Results collage (hero)
-  01-distance-bands-kigali.jpg             Concentric travel-distance bands
+  01-distance-bands-kigali.jpg             Concentric travel-distance bands (hero)
   02-distance-matrix-nearest-neighbour.jpg Street-level nearest-neighbour linkage
   03-od-matrix-shortest-paths.jpg          Shortest paths from one node
   04-od-matrix-full-web.jpg                Full origin–destination web
@@ -98,6 +97,7 @@ assets/      Figures and logo (raw exports)
   06-kibana-dashboard.jpg                  Live ELK / Kibana dashboard
   07-health-context.jpg                    Health-domain context imagery
   08-framework-inputs-outputs.jpg          Inputs → model → outputs framework
+  09-facility-nearest-chart.jpg            Per-facility k=3 nearest-neighbour chart
 ```
 
 ## Publishing with GitHub Pages
