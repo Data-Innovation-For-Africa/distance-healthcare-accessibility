@@ -231,7 +231,7 @@
   .plate.wide img{aspect-ratio:1000/382}
 
   /* results */
-  .findings{display:grid;grid-template-columns:1fr 1fr;gap:22px}
+  .findings{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}
   .finding{background:var(--surface);border:1px solid var(--line);border-left:3px solid var(--terracotta);border-radius:0 12px 12px 0;padding:22px 24px}
   .finding.good{border-left-color:var(--green)}
   .finding .big{font-family:var(--font-display);font-size:clamp(30px,4vw,44px);font-weight:600;letter-spacing:-.02em;line-height:1;font-variant-numeric:tabular-nums}
@@ -660,7 +660,6 @@
       <div class="finding"><div class="big">9.30<small>%</small></div><p>of the population fall in <b>poor accessibility</b> (2SFCA ≤ 0.50) at a driving threshold of <b>d₀ = 1,800 s</b> — the baseline under-served share.</p></div>
       <div class="finding"><div class="big">12–13<small>%</small></div><p>under-served when the catchment tightens to <b>d₀ = 900 s</b> — a stricter time budget reveals more vulnerable residents.</p></div>
       <div class="finding good"><div class="big">63.21<small>%</small></div><p>of population points lie within <b>2,500 m</b> of a facility (k = 3) — most of the city is close, which is exactly why the gravity view matters for the rest.</p></div>
-      <div class="finding good"><div class="big">82,085</div><p>routed records indexed, at an <b>average distance of 13,093.9 m</b> — the measured backbone behind every accessibility score.</p></div>
     </div>
     <p class="arrow-note" style="margin-top:34px">Interpretation: the <b>distance</b> view says most of Kigali is near a clinic; the <b>gravity</b> view says a meaningful minority still lack <em>sufficient</em> access once provider capacity and competition are counted. That gap is the target.</p>
   </div>
