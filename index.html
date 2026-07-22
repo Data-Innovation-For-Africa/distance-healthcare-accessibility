@@ -837,8 +837,7 @@
 (function(){
   var root=document.documentElement;
   var saved=null; try{saved=localStorage.getItem('lang');}catch(e){}
-  var nav=(navigator.language||'en').slice(0,2).toLowerCase();
-  var lang=saved||(nav==='fr'?'fr':'en');
+  var lang=(saved==='fr'||saved==='en')?saved:'en';
   function set(l){
     root.setAttribute('data-lang',l);
     try{localStorage.setItem('lang',l);}catch(e){}
