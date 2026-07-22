@@ -94,10 +94,8 @@ assets/      Figures and logo (raw exports)
   03-od-matrix-shortest-paths.jpg          Shortest paths from one node
   04-od-matrix-full-web.jpg                Full origin–destination web
   05-2sfca-accessibility-map.jpg           2SFCA accessibility per residence
-  06-kibana-dashboard.jpg                  Live ELK / Kibana dashboard
   07-health-context.jpg                    Health-domain context imagery
   08-framework-inputs-outputs.jpg          Inputs → model → outputs framework
-  09-facility-nearest-chart.jpg            Per-facility k=3 nearest-neighbour chart
 ```
 
 ## Publishing with GitHub Pages
